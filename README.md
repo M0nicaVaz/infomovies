@@ -36,7 +36,8 @@ Versão única
 ## 🎁 Agradecimentos
 
 - Gratidão à [matheusbattisti](https://github.com/matheusbattisti)
+- Gratidão à [Monica Vaz](https://github.com/m0nicaVaz)
 
 ---
 
-⌨️ com ❤️ por [Carlos Augusto](https://gist.github.com/Caarlos7x) 😊
+⌨️ com ❤️ por [Carlos Augusto](https://gist.github.com/Caarlos7x) 😊 
